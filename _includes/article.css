@@ -1,0 +1,81 @@
+    h1 {
+      color: #A7D129;
+      font-family: "Courier";
+      text-align: center;
+    }
+
+    h2 {
+      color: #A7D129;
+      font-family: "Courier";
+    }
+
+    textarea {
+      color: #F35F0E;
+      background: #181818;
+      border-color: #8899A6;
+      border-style: none;
+      font-family: "Courier", monospace;
+      max-width: 100%;
+      width: 100%;
+      white-space: pre-line;
+    }
+
+    button {
+      background: #181818;
+      border-color: #8899A6;
+      border-style: solid;
+      color: #8899A6;
+      cursor: pointer;
+      display: block;
+      font-size: 1rem;
+      font-family: "Courier", monospace;
+      margin: 5px auto;
+      padding: 4px 8px 4px;
+      text-align: center;
+    }
+
+    button:hover {
+      border-color: #800080;
+      color: #800080;
+    }
+
+    figure {
+      color:  #F35F0E;
+      text-align: left;
+    }
+
+    #references {
+      padding-left: 3em;
+      text-indent: -3em;
+      text-align: left;
+    }
+
+    .content-scroll{
+      grid-column: 6/span 5;
+      height: 70vh;
+      overflow-x: hidden;
+      padding: 1em;
+    }
+
+    .article{
+      text-align: justify;
+    }
+
+    @media screen and (max-width: 1100px) {
+      .content-scroll{
+        grid-column: 1/span 16;
+        height: 70vh;
+        overflow-x: hidden;
+        padding: 1em;
+      }
+
+      .article{
+        grid-column: 1/span 16;
+        margin-bottom: 1.3em;
+        text-align: left;
+      }
+
+      .footer-left{
+        width: 100%;
+      }
+    }

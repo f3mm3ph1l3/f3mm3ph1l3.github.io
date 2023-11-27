@@ -1,0 +1,28 @@
+# jekyll
+_site/
+.jekyll-cache/
+
+# jupyter
+.cache/
+.ipython/
+.jupyter/
+.local/
+.ipynb_checkpoints/
+
+# ipynb conversion
+converted/
+
+# data
+data/
+
+# sync
+*.synced_history
+
+# containers
+*.running_containers
+
+# macos
+.DS_Store
+
+# Keras
+.keras

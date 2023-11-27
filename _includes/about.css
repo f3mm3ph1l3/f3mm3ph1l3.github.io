@@ -1,0 +1,22 @@
+    .contact{
+      grid-column: 10/span 4;
+    }
+
+    .about{
+      grid-column: 4/span 5;
+    }
+
+    @media screen and (max-width: 900px) {
+      .contact,
+      .about{
+        grid-column: 2/span 13;
+        margin-bottom: 1.3em;
+      }
+
+      .contact{
+        margin-bottom: 80px;
+      }
+        .footer-left{
+        width: 100%;
+      }
+    }
