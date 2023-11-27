@@ -1,5 +1,9 @@
     body{
       grid-template-rows: repeat(6, 6fr var(--margin-grid)) var(--margin-border);
+      background-image: url("https://res.cloudinary.com/ddeqzpbjq/image/upload/v1701123733/fp_blurred_rad20_mosaic_13_a0ahcd.jpg");
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
     }
 
     .intro{
