@@ -95,7 +95,7 @@ CONVERTNB  := $(addprefix ${OUTDR}/, $(notdir $(NOTEBOOKS:%.ipynb=%.${OEXT})))
 # docker-related variables
 JKLCTNR = jekyll.${DCTNR}
 JPTCTNR = jupyter.${DCTNR}
-DCKRIMG = jupyter/scipy-notebook:lab-4.0.5
+DCKRIMG = ghcr.io/f3mm3ph1l3/analytics-notebook:master
 DCKRRUN = docker run --rm -v ${CURRENTDIR}:/home/jovyan -it ${DCKRIMG}
 
 # check for conditional vars to turn off docker
