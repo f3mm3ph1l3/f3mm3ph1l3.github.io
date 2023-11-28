@@ -7,11 +7,17 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
     <link rel="manifest" href="/favicon/site.webmanifest">
-    <title>{{ page.title }}</title>
     <link href="/assets/css/base.css" rel="stylesheet">
-    <style>
+    <script src="/assets/scripts/background.js"></script>
+    <title>{{ page.title }}</title>
+    <style id="header-style">
     {% include {{ page.custom_css }} %}
     </style>
+    <script>
+    {% if page.title contains "Home" %}
+      update_background();
+    {% endif %}
+    </script>
   </head>
   <body>
     <header class="header">
