@@ -48,6 +48,19 @@
                 text-align: center; /* Center text horizontally */
             }
 
+            .fake_dictionary_entry {
+                font-size: 20px;
+                text-align: left;
+                line-height: 2em;
+                font-weight: 500;
+                text-shadow:
+                    2px 2px 0px black,
+                    3px 3px 0px black;
+                background-color: rgba(0, 0, 0, 0.5); /* Black with 50% transparency */
+                padding: 10px; /* Optional: Adds some padding around the text */
+                border-radius: 10px; /* Rounds the corners */
+            }
+
             .quote {
                 font-size: 44px;
                 text-align: center;
