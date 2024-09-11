@@ -15,10 +15,6 @@ As I mentioned in my [previous article](https://femmephile.com/blog/2024/08/29/h
 
 Trans women are *highly feminine* biological males. They are in *essence* "women that are not female." They are the **other** feminine option. While their *femininity* is a requirement for *heterosexual males* to find them attractive, it is actually their *lack of femaleness* that is the key to their *appeal* (and also their *advantage* in the *dating market*):
 
-```python
-print("feminine not female")
-```
-
     feminine not female
 
 
