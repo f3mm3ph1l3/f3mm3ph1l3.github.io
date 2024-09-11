@@ -10,10 +10,19 @@ This is a post I have wanted to write for quite a while, as I think it is an int
 ## The Appeal
 As I mentioned in my [previous article](https://femmephile.com/blog/2024/08/29/heterosex-defined) I believe that the **appeal** of trans women to *heterosexual males* can be understood with a simple phrase:
 
-    Women that are not female.
+    women that are not female
 
 
-Trans women are *highly feminine* biological males. They are in *essence* "women that are not female." Their *femininity* is a requirement for *heterosexual males* to be attracted to them, but it is their *lack of femaleness* that is the key to their *appeal* (i.e. what gives them an advantage in the dating market). The objective reality as I see it, is that it is their *biological male* origins that ultimately serve as the foundation of their appeal. Trans women are the **other** feminine option. They are women that are born biologically male, and possess the anatomy of a biological male, yet they are very feminine and womanly in their appearance. Objectively, whether a trans woman appreciates this *"advantage"* or not, this is their **advantage** in the *dating market*. This is what trans woman can *provide* that *cis women* cannot.
+Trans women are *highly feminine* biological males. They are in *essence* "women that are not female." They are the **other** feminine option. While their *femininity* is a requirement for *heterosexual males* to find them attractive, it is actually their *lack of femaleness* that is the key to their *appeal* (and also their *advantage* in the *dating market*):
+
+```python
+print("feminine not female")
+```
+
+    feminine not female
+
+
+Objectively, whether a trans woman appreciates this *"advantage"* or not, this is their **advantage** in the *dating market*: this is is what trans women can *provide* that *cis women* cannot.
 
 ## Conflicting Interests
 Where the conflict seems to arise, is specifically for trans women who are *uncomfortable* with the *"male aspects"* of their person (i.e. *gender dysphoria*). These trans women often decide to undergo *sex-reassignment* surgery, out of necessity to deal with their dysphoria, but in creating an *artificial vagina* they are now becoming more **female** (not necessarily more *feminine*). 
